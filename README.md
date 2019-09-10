@@ -6,10 +6,11 @@
 ## Frontend
 - HTML
 - CSS
-- JavaScript (VueJS?)
+- AngularJS
+- ReactJS
+- Custom Javascript Feature Framework
 
 ## Backend
 - MongoDB
 - ExpressJS
-- AngularJS
 - Node.JS
