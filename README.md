@@ -1,14 +1,14 @@
 # fullstackpractice
-Practice full stack development
+> Practice full stack development
 
-Current Stack Design
+## Current Stack Design
 
-Frontend
+## Frontend
 - HTML
 - CSS
 - JavaScript (VueJS?)
 
-Backend
+## Backend
 - MongoDB
 - ExpressJS
 - AngularJS
