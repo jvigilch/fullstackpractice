@@ -3,14 +3,13 @@
 
 ## Current Stack Design
 
-## Frontend
+### Frontend
 - HTML
 - CSS
-- AngularJS
 - ReactJS
 - Custom Javascript Feature Framework
 
-## Backend
+### Backend
 - MongoDB
 - ExpressJS
 - Node.JS
